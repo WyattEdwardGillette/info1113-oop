@@ -26,6 +26,3 @@ Bad input
 $ java GoalDifference  
 Four 2  
 Bad input  
-
-
-Remember that you must "Run" your code before you can "Mark" it for submission.
