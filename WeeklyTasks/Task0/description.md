@@ -8,24 +8,24 @@ For each set of input, print the winning margin like "The match is won by <GoalD
 
 
 Example:
-$ java GoalDifference
-4 2
-The match is won by 2 goals
+$ java GoalDifference  
+4 2  
+The match is won by 2 goals  
 
 
-$ java GoalDifference
-2 2
-The match is a tie
+$ java GoalDifference  
+2 2  
+The match is a tie  
 
 
-$ java GoalDifference
-2.5 1
-Bad input
+$ java GoalDifference  
+2.5 1  
+Bad input  
 
 
-$ java GoalDifference
-Four 2
-Bad input
+$ java GoalDifference  
+Four 2  
+Bad input  
 
 
 Remember that you must "Run" your code before you can "Mark" it for submission.
