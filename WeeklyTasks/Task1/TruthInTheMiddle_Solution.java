@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TruthInTheMiddle{
+public class TruthInTheMiddle_Solution{
 
     public static void main(String[] args){
 
