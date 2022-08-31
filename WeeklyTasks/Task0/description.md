@@ -7,7 +7,7 @@ Output
 For each set of input, print the winning margin like "The match is won by <GoalDifference> goals". If both teams have scored equal number of goals, print "The match is a tie". If the user inputs anything other than non-negative integer, print "Bad input"
 
 
-Example:
+Example:  
 $ java GoalDifference  
 4 2  
 The match is won by 2 goals  
